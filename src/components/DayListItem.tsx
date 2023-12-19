@@ -20,9 +20,9 @@ export default function DayListItem({ day }: DayListItem) {
 
 const styles = StyleSheet.create({
   mainContainer: {
-    backgroundColor: 'pink',
     flex: 1,
-    aspectRatio: 1,
+    backgroundColor: 'yellow',
+    // aspectRatio: 1,
 
     //   borderWidth: StyleSheet.hairlineWidth,
     //   borderColor: '#9b4521',
